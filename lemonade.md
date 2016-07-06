@@ -1,5 +1,5 @@
-# adminyetkirenk
----------
+Bulunuz:" function aAction " ve değiştirin:
+
 function aAction ( type, action, admin, player, data, more )
     if ( aLogMessages[type] ) then
         function aStripString ( string )
